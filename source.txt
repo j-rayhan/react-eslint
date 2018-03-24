@@ -1,0 +1,15 @@
+
+1// 
+https://www.youtube.com/watch?v=nxxl2H_TOTc&list=PLMWjeRChIK6bnp6qaS3rxLGCpc9aQYzEE&index=1
+
+
+2//
+https://eslint.org/docs/user-guide/getting-started
+
+
+3//
+https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb
+
+
+4//Example in project
+https://github.com/intljusticemission/react-big-calendar/blob/master/package.json
